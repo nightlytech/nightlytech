@@ -2,5 +2,5 @@
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightlytech&theme=dark)](https://git.io/streak-stats)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
