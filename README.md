@@ -3,5 +3,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightlytech&theme=dark)](https://git.io/streak-stats)
 
-<script src="node_modules/eruda/eruda.js"></script>
-<script>eruda.init();</script>
+
